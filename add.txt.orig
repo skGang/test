@@ -1,0 +1,8 @@
+add
+edited in local
+third
+<<<<<<< HEAD
+remote
+=======
+local
+>>>>>>> d97f4f6 (local change)
